@@ -1,6 +1,6 @@
 # Default-of-Credit-Card-Clients
 Análisis exploratorio, ingeniería de variables y evaluación de riesgo crediticio para predicción de default en clientes bancarios de Taiwan
-# 💳 Credit Card Default & Risk Analysis
+#  Credit Card Default & Risk Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Analysis](https://img.shields.io/badge/Domain-Credit%20Risk%20%7C%20Banking-green)
@@ -86,7 +86,7 @@ La política de asignación de límites actúa como un filtro inicial de solvenc
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 * **Lenguaje:** Python 3.10+
 * **Procesamiento de datos:** `pandas`, `numpy`
 * **Visualización:** `matplotlib`, `seaborn`
